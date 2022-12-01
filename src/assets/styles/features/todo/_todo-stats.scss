@@ -1,0 +1,9 @@
+.todo-stats {
+  text-align: left;
+  padding-left: unset;
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+  }
+}
